@@ -1,0 +1,63 @@
+.warmup {
+    height:650px;
+    width:100%;
+    background-color: #22A2F2;
+}
+
+.sub-warm-1 {
+    height: 650px;
+    width: 977px;
+    background-color: #1DF187;
+    margin: auto;
+}
+
+.warm2 {
+    height: 100%;
+    width: 277px;
+    background-color: #B7B5B1;
+    margin: 0px 15px 0px 15px;
+    float: left;
+}
+
+.warm2 h1 {
+    text-align: center;
+}
+
+.warm2 p {
+    text-align: center;
+}
+
+.warm3 {
+    height: 100%;
+    width: 277px;
+    background-color: #B7B5B1;
+    margin: 0px 15px 0px 42px;
+    float: left;
+}
+
+.warm3 h1 {
+        text-align: center;
+
+}
+
+.warm3 p {
+        text-align: center;
+
+}
+
+.warm4 {
+    height: 100%;
+    width: 277px;
+    background-color: #B7B5B1;
+    margin: 0px 15px 0px 0px;
+    float: right;
+}
+
+.warm h1 {
+            text-align: center;
+
+}
+
+.warm p {
+            text-align: center;
+}
