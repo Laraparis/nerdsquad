@@ -7,9 +7,13 @@ header{
     background-color: tan;
 }
 
+body {
+    margin: 0;
+    font-family: "Times New Romans";
+    font-weight: 200;
+}
 
 header h1{
-    font-family:'Alex Brush ', ' Great Vibes';
     text-align: left;
     padding: 20px;
     float: left;
@@ -53,6 +57,13 @@ a{
     font-size: 3em;
 }
 
+.box2 h1{
+    font-family: 'Great Vibes', cursive;
+    font-weight: ;
+    background-color: tan;
+}
+
+
 .icon2 {
     height: 107px;
     width: 107px;
@@ -61,6 +72,7 @@ a{
     text-align: center;
     margin-left: 617px;
     float: left
+    padding-bottom: 37px;
 }
 
 .icon2 i {
@@ -94,12 +106,13 @@ a{
 }
 
 .go h1{ text-align: center;
-    margin: 77px;
+    
     
 }
 
 .go p { text-align: center;
-
+    
+    
 }
 
 .eo{
