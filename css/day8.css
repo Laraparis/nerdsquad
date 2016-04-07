@@ -43,6 +43,8 @@ a{
 .menu li{
     float: left;    
     padding: 0px 5px;
+    font-family: 'Alex Brush', cursive;
+    font-size: larger;
 }
 
 .logo h1{
@@ -103,13 +105,23 @@ a{
 }
 
 .go{
-    height: 85%;
+    height: 86%;
     width: 277px;
     background-color: #A52A2A;
     margin: 30px 15px 0px 40px;
     float: left;
     border-radius: 15px;
     font-family: 'Alex Brush', cursive;
+   
+}
+
+.icongo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    float: right;
+    padding: 0px 32px 57px
+    
 }
 
 .go h1{ text-align: center;
@@ -124,7 +136,7 @@ a{
 }
 
 .eo{
-    height: 85%;
+    height: 86%;
     width: 277px;
     background-color: #A52A2A;
     margin: 30px 15px 0px 15px;
@@ -138,15 +150,18 @@ a{
 }
 
 .eo p{ text-align: center;
-    
+    font-size: 2em;
+
 }
 .to{
-    height: 85%;
+    height: 86%;
     width: 277px;
     background-color: #A52A2A;
     float: left;
     margin: 30px 15px 0px 15px;
     border-radius: 15px;
+    font-family: 'Alex Brush', cursive;
+
 
 }
 
@@ -155,10 +170,11 @@ a{
 }
 
 .to p{ text-align: center;
-    
+    font-size: 2em;
+    font-weight: 200;
 } 
 
-.box5{ height:447px;
+.box5{ height:547px;
        width: 100%;
        background-color: #815A7E;
 }
@@ -174,17 +190,28 @@ a{
     width: 400px;
     height: 350px;
     float: left;
-    padding-top: 22px;
+    padding-top: 67px;
     margin: 25px;
 }
 
 .words {
     width: 347px;
-    height: 327px;
+    height:497px;
     float: right;
     border: dashed;
     padding-top: 37px;
-    margin: 25px;
+    margin: 27px;
+    font-family: 'Alex Brush', cursive;
+
+}
+
+.words h1
+{
+    
+}
+
+.words p{
+    font-size: 2em;
 }
 
 .box6{
@@ -210,10 +237,11 @@ a{
 }
 
 .words{
-    height:350px;
+    height:407px;
     width:770px;
     float: left;
     padding: 10px 15px 0px 30px;
+    margin-top: 57px;
 }
 
 .words h1{
