@@ -17,6 +17,10 @@ header h1{
     text-align: left;
     padding: 20px;
     float: left;
+    font-family: 'Alex Brush', cursive;
+    font-size: 3em;
+    font-weight: bold;
+
 }
 
 
@@ -60,17 +64,19 @@ a{
 .box2 h1{
     font-family: 'Great Vibes', cursive;
     font-weight: ;
-    background-color: tan;
+    background-color: rgba(210, 180, 140, 0.8);
+    padding: 26px 0;
 }
 
 
 .icon2 {
     height: 107px;
     width: 107px;
-    background-color: #A52A2A;
+    /*background-color: rgba(139,0,0,.6);*/
+    background-color: rgba(210, 180, 140, 0.8);
     border-radius: 100%;
     text-align: center;
-    margin-left: 617px;
+    margin-left: 637px;
     float: left
     padding-bottom: 37px;
 }
@@ -103,6 +109,7 @@ a{
     margin: 30px 15px 0px 40px;
     float: left;
     border-radius: 15px;
+    font-family: 'Alex Brush', cursive;
 }
 
 .go h1{ text-align: center;
@@ -111,7 +118,8 @@ a{
 }
 
 .go p { text-align: center;
-    
+    font-size: 2em;
+
     
 }
 
@@ -122,7 +130,7 @@ a{
     margin: 30px 15px 0px 15px;
     float: left;
     border-radius: 15px;
-
+    font-family: 'Alex Brush', cursive;
 }
 
 .eo h1{ text-align: center;
@@ -172,7 +180,7 @@ a{
 
 .words {
     width: 347px;
-    height: 337px;
+    height: 327px;
     float: right;
     border: dashed;
     padding-top: 37px;
